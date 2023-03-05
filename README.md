@@ -1,2 +1,2 @@
 # Math-Modeling
-Linear Regression for Iowa Median Household Income (Stats OL) and Data Cleaning for Iowa County, Prison, and Prisoner Data
+Linear Regression (StatsOL) is a predictive model used to get future financial projections, and Data Cleaning is the process of detecting and correcting corrupt or inaccurate records from a record set, table, or database and then replacing, modifying, or deleting the dirty or coarse data.
